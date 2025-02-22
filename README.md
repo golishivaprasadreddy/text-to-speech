@@ -1,5 +1,3 @@
-
-
 # Text-to-Speech
 
 The Text-to-Speech project converts given text into speech (audio format). This tool can be useful for various applications, such as accessibility features, educational tools, and more.
