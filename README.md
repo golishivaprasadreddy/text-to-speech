@@ -18,7 +18,11 @@ To get started with the Text-to-Speech project, follow these steps:
    cd text-to-speech
 ```
 2. **Install the dependencies**:
-```bash pip install -r requirements.txt ```
+```bash
+ pip install -r requirements.txt
+ ```
 
 3. **Run the application**:
-```bash python text_to_speech.py '''
+```bash 
+python text_to_speech.py
+```
