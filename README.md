@@ -17,6 +17,7 @@ To get started with the Text-to-Speech project, follow these steps:
    git clone https://github.com/golishivaprasadreddy/text-to-speech.git
    cd text-to-speech
 ```
+
 2. **Install the dependencies**:
 ```bash
  pip install -r requirements.txt
